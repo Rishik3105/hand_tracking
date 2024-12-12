@@ -99,11 +99,6 @@ Feel free to **star ⭐ the repository** and share your feedback!
 
 ---
 
-## 🏆 **Achievements**
-- National-level 🥉 **UCMAS Competition 3rd Runner-Up** in Delhi
-- National-level Tennis Player 🎾
-- Active Member of IEEE, Data Science Club, and Aaruush (SRM University) 💡
-
 ---
 
 ### 🤝 **Contributions**
