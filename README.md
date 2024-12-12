@@ -79,8 +79,6 @@ ID: 1, X: 280, Y: 350
 ...
 ```
 
----
-
 ## 📚 **Learning Outcomes**
 By running this project, you will:
 - Learn how to integrate MediaPipe with OpenCV 🤝
